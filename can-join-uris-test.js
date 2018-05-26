@@ -1,7 +1,7 @@
 'use strict';
 
-var QUnit = require('../../test/qunit');
-var joinURIs = require('./join-uris');
+var QUnit = require('steal-qunit');
+var joinURIs = require('./can-join-uris');
 
 QUnit.module("can-join-uris");
 
