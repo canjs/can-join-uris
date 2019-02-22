@@ -1,6 +1,7 @@
 @module {Object} can-join-uris
 @parent can-js-utilities
 @collection can-infrastructure
+@package ./package.json
 @description Join together a URI path to a base.
 @signature `joinURIs(base, href)`
 
