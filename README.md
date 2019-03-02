@@ -5,8 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/canjs/can-join-uris/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/can-join-uris.svg)](https://www.npmjs.com/package/can-join-uris)
 [![Travis build status](https://travis-ci.org/canjs/can-join-uris.svg?branch=master)](https://travis-ci.org/canjs/can-join-uris)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/canjs/can-join-uris?branch=master&svg=true)](https://ci.appveyor.com/project/matthewp/can-join-uris)
-[![Coverage status](https://coveralls.io/repos/github/canjs/can-join-uris/badge.svg?branch=master)](https://coveralls.io/github/canjs/can-join-uris?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-join-uris.svg)](https://greenkeeper.io/)
 
 Join uris together
